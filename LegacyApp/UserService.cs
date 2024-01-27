@@ -67,7 +67,7 @@ namespace LegacyApp
         }
 
         /// <summary>
-        /// his method used for Check user credit details
+        /// This method used for Check user credit details
         /// Created by Nuwan on 26/01/2024
         /// </summary>
         public User CheckAndSetUserCreditLimit(User user)
