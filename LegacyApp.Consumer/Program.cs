@@ -17,7 +17,6 @@ namespace LegacyApp.Consumer
         	*/
 
             var userService = new UserService();
-            //var addResult = userService.AddUser("New", "User", "newuser@ukcows.com", new DateTime(1990, 1, 1), 1);
             var addResult = userService.AddUser("New", "User", "newuser@ukcows.com", new DateTime(1990, 1, 1), 1);
             Console.WriteLine("Adding New User was " + (addResult ? "successful" : "unsuccessful"));
         }
