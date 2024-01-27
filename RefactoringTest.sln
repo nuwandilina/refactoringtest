@@ -10,7 +10,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Instructions", "Instructions", "{B4F8BC2B-D43C-46E8-BDCF-A1204D5D895E}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
-		..\..\Test\RefactoringTest.sql = ..\..\Test\RefactoringTest.sql
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeagacyApp.Consumer.Test", "LeagacyApp.Consumer.Test\LeagacyApp.Consumer.Test.csproj", "{10F096CE-163A-40C5-B410-1B5B7017AE03}"
